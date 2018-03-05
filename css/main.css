@@ -1,0 +1,59 @@
+﻿/* by Morev Oleg */
+/* job.morev@gmail.com */
+
+html, body, object, iframe, h1, h2, h3, h4, h5, h6, p, a, em, img, u, ol, ul, li, form, label, table, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+}
+head, main, footer, section, menu, nav, article {
+	display: block;
+}
+* {
+    box-sizing: border-box;
+}
+a img {
+	border: 0;
+}
+ol, ul {
+	list-style: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+input, textarea {
+	padding: 0;
+    border: 0;
+    outline: none;
+}
+:focus {
+    outline: none;
+}
+::-ms-clear {
+    display: none;
+}
+::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+::-webkit-scrollbar-thumb {
+    background: #c6c6c6;
+    border-radius: 6px;
+}
+input::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
+    opacity: 1;
+}
+input::-moz-placeholder, textarea:-moz-placeholder {
+    opacity: 1;
+}
+input:-ms-input-placeholder, textarea:-ms-input-placeholder {
+    opacity: 1;
+}
+html, body {
+    height: 100%;
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 14px;
+}

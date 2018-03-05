@@ -1,0 +1,11 @@
+﻿/* by Morev Oleg */
+/* job.morev@gmail.com */
+
+// 1. Действие при клике вне объекта
+#test {
+	position: absolute;
+	top: 50%; left: 50%;
+	width: 400px; height: 200px;
+	transform: translate(-50%, -50%);
+	background: #fff;
+}
